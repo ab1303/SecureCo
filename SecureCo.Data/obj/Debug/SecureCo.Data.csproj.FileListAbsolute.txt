@@ -1,0 +1,17 @@
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\SecureCo.Data.dll.config
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\SecureCo.Data.dll
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\SecureCo.Data.pdb
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\EntityFramework.dll
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\StructureMap.dll
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\StructureMap.Web.dll
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\EntityFramework.xml
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\StructureMap.xml
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\StructureMap.Web.pdb
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\bin\Debug\StructureMap.Web.xml
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\obj\Debug\SecureCo.Data.csprojResolveAssemblyReference.cache
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\obj\Debug\SecureCo.Data.Migrations.SecureCoDatabaseSetup.resources
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\obj\Debug\SecureCo.Data.csproj.GenerateResource.Cache
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\obj\Debug\SecureCo.Data.dll
+E:\Technical Tests\Secure Co\SecureCo\SecureCo.Data\obj\Debug\SecureCo.Data.pdb
